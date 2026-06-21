@@ -1,0 +1,19 @@
+{
+    "pixelix": {
+        "type": "plugin",
+        "name": "ChicagoTrainTrackerPlugin",
+        "web": {
+            "files": [
+                "./web/ChicagoTrainTrackerPlugin.html",
+                "./web/ChicagoTrainTrackerPlugin.png"
+            ],
+            "layouts": [{
+                "name": "LAYOUT_GENERIC",
+                "files": []
+            },{
+                "name": "LAYOUT_32X8",
+                "files": []
+            }]
+        }
+    }
+}
